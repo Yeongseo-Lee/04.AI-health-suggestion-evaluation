@@ -1,0 +1,7 @@
+suggestion_pattern,n_suggestions,average_overall_score,average_safety_score,high_risk_rate
+safe_tailored,21,4.830952380952381,5.0,0.0
+missing_safety_note,5,4.432,3.2,0.2
+ignores_context,8,2.605,1.625,0.75
+vague_generic,4,2.3725,1.75,0.75
+too_intense,16,2.361875,1.0,1.0
+motivation_only,6,2.3333333333333335,1.8333333333333333,0.6666666666666666

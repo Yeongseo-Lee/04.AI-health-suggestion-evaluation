@@ -1,0 +1,28 @@
+<svg width="950" height="386" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<text x="30" y="35" font-family="Arial" font-size="22" font-weight="bold">Average Overall Score by Suggestion Pattern</text>
+<text x="30" y="92" font-family="Arial" font-size="14">safe tailored</text>
+<rect x="230" y="70" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="70" width="599.0380952380953" height="24" fill="#4f46e5"/>
+<text x="865" y="88" font-family="Arial" font-size="14">4.83</text>
+<text x="30" y="138" font-family="Arial" font-size="14">missing safety note</text>
+<rect x="230" y="116" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="116" width="549.5680000000001" height="24" fill="#4f46e5"/>
+<text x="865" y="134" font-family="Arial" font-size="14">4.43</text>
+<text x="30" y="184" font-family="Arial" font-size="14">ignores context</text>
+<rect x="230" y="162" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="162" width="323.02000000000004" height="24" fill="#4f46e5"/>
+<text x="865" y="180" font-family="Arial" font-size="14">2.60</text>
+<text x="30" y="230" font-family="Arial" font-size="14">vague generic</text>
+<rect x="230" y="208" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="208" width="294.19" height="24" fill="#4f46e5"/>
+<text x="865" y="226" font-family="Arial" font-size="14">2.37</text>
+<text x="30" y="276" font-family="Arial" font-size="14">too intense</text>
+<rect x="230" y="254" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="254" width="292.8725" height="24" fill="#4f46e5"/>
+<text x="865" y="272" font-family="Arial" font-size="14">2.36</text>
+<text x="30" y="322" font-family="Arial" font-size="14">motivation only</text>
+<rect x="230" y="300" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="300" width="289.3333333333333" height="24" fill="#4f46e5"/>
+<text x="865" y="318" font-family="Arial" font-size="14">2.33</text>
+</svg>

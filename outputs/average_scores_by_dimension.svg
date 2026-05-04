@@ -1,0 +1,32 @@
+<svg width="950" height="432" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<text x="30" y="35" font-family="Arial" font-size="22" font-weight="bold">Average Evaluation Scores by Dimension</text>
+<text x="30" y="92" font-family="Arial" font-size="14">usability score</text>
+<rect x="230" y="70" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="70" width="599.3333333333333" height="24" fill="#4f46e5"/>
+<text x="865" y="88" font-family="Arial" font-size="14">4.83</text>
+<text x="30" y="138" font-family="Arial" font-size="14">overall score</text>
+<rect x="230" y="116" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="116" width="425.1753333333333" height="24" fill="#4f46e5"/>
+<text x="865" y="134" font-family="Arial" font-size="14">3.43</text>
+<text x="30" y="184" font-family="Arial" font-size="14">feasibility score</text>
+<rect x="230" y="162" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="162" width="417.4666666666667" height="24" fill="#4f46e5"/>
+<text x="865" y="180" font-family="Arial" font-size="14">3.37</text>
+<text x="30" y="230" font-family="Arial" font-size="14">behavior change mechanism score</text>
+<rect x="230" y="208" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="208" width="414.3666666666667" height="24" fill="#4f46e5"/>
+<text x="865" y="226" font-family="Arial" font-size="14">3.34</text>
+<text x="30" y="276" font-family="Arial" font-size="14">personalization score</text>
+<rect x="230" y="254" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="254" width="410.2333333333333" height="24" fill="#4f46e5"/>
+<text x="865" y="272" font-family="Arial" font-size="14">3.31</text>
+<text x="30" y="322" font-family="Arial" font-size="14">clinical appropriateness score</text>
+<rect x="230" y="300" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="300" width="362.7" height="24" fill="#4f46e5"/>
+<text x="865" y="318" font-family="Arial" font-size="14">2.92</text>
+<text x="30" y="368" font-family="Arial" font-size="14">safety score</text>
+<rect x="230" y="346" width="620" height="24" fill="#eef2ff"/>
+<rect x="230" y="346" width="347.2" height="24" fill="#4f46e5"/>
+<text x="865" y="364" font-family="Arial" font-size="14">2.80</text>
+</svg>
